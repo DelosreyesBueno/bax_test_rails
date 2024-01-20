@@ -1,0 +1,6 @@
+{
+  "correct_token": "Bien, ahora haz GET requests a /challenge/word y guarda todas las palabras que obtengas.Recuerda usar este token en el header Authorization Bearer",
+  "token_not_found": "El token no se encontró o ha caducado",
+  "empty_token": "¡Challenge Token No incluido!",
+  "key_error": "La llave que generaste es inválida, checa tu algoritmo!"
+}
